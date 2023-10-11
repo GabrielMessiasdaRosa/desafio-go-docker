@@ -10,6 +10,9 @@
 
  Projeto desenvolvido por Gabriel Messias da Rosa.
 
+## Link para o Docker Hub
+[motivado/fullcycle](https://hub.docker.com/r/motivado/fullcycle)
+
 ## Desafio
 
  O objetivo deste desafio é publicar uma imagem no Docker Hub que, ao ser executada, imprima a mensagem "Full Cycle Rocks!!". A imagem deve ter menos de 2 MB e pode ser baseada em uma imagem oficial do Go disponível no Docker Hub.
