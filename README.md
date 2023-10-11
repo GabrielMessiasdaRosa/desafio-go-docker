@@ -17,9 +17,6 @@
 
  O objetivo deste desafio é publicar uma imagem no Docker Hub que, ao ser executada, imprima a mensagem "Full Cycle Rocks!!". A imagem deve ter menos de 2 MB e pode ser baseada em uma imagem oficial do Go disponível no Docker Hub.
 
-## Resultado esperado
-
-![Resultado esperado](https://i.imgur.com/sPXXqh9.png)
 
 ## Como executar
 
@@ -28,6 +25,9 @@ Para executar a imagem, basta executar o seguinte comando:
 ```bash
 docker run --rm motivado/fullcycle
 ```
+## Resultado esperado
+
+![Resultado esperado](https://i.imgur.com/sPXXqh9.png)
 
 Substitua `motivado/fullcycle` pelo nome da imagem que você construiu.
 
