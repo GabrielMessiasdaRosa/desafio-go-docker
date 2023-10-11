@@ -1,7 +1,7 @@
 # stage 1
 FROM golang:1.21-alpine AS project_builded
 
-WORKDIR /home
+WORKDIR /app
 COPY ./app . 
 RUN go install fullcycle/rocks
 
